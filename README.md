@@ -1,4 +1,4 @@
-# rbxts-transformer-setget
+# @rbxts-transformer/setget
 
 This transformer implements Getters and Setters to roblox-ts by converting them into methods and method calls.
 
@@ -11,7 +11,7 @@ To use this transformer you have to add rbxts-transformer-setget to your tsconfi
 ```json
 "plugins": [
 	{
-		"transform": "rbxts-transformer-setget"
+		"transform": "@rbxts-transformer/setget"
 	}
 ]
 ```
