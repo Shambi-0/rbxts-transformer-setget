@@ -6,7 +6,7 @@ Please note that this does not solve the problems pertaining to why Getters/Sett
 
 ## Usage
 
-To use this transformer you have to add rbxts-transformer-setget to your tsconfig.json file in compilerOptions config
+To use this transformer you have to add @rbxts-transformer/setget to your tsconfig.json file in compilerOptions config
 
 ```json
 "plugins": [
